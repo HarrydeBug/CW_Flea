@@ -8,6 +8,7 @@ Source code for the Arduino IDE is in the Sofware folder.
 The hardware was designed using EasyEDA and is shared as a public project here: https://oshwlab.com/deBug/cw-flea_copy
 
 General documentation and how to operata it can be found here: https://www.zachtek.com/1038
+
 Buy it built and programmed here: https://www.zachtek.com/product-page/cw-flea-transmitter
 
 //Harry 
